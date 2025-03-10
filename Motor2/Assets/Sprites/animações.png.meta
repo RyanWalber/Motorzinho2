@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 1f1d768808e00c049a497832da4b1d69
+guid: 12fe29d11154d834aae1f2d9d330617c
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -48,7 +48,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 256
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -123,13 +123,34 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: parado2_0
+      name: "anima\xE7\xF5es_0"
       rect:
         serializedVersion: 2
-        x: 443
-        y: 660
-        width: 1586
-        height: 2258
+        x: 0
+        y: 40
+        width: 21
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfd23c15fc54f934a9c029055fe598f5
+      internalID: 1474204759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "anima\xE7\xF5es_1"
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 41
+        width: 21
+        height: 41
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -137,8 +158,50 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f95b9f8f40b218b4d888116b8fddf7b8
-      internalID: 1681320598
+      spriteID: b993de87f273cc448af91cf031f1cb94
+      internalID: -1081744853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "anima\xE7\xF5es_2"
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 37
+        width: 23
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b53ede4d84e42645a16d2240e52fe37
+      internalID: -566492500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "anima\xE7\xF5es_3"
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 38
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1afa6c76b003f874b953923129e50bc0
+      internalID: 832404835
       vertices: []
       indices: 
       edges: []
@@ -154,7 +217,10 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      parado2_0: 1681320598
+      "anima\xE7\xF5es_0": 1474204759
+      "anima\xE7\xF5es_1": -1081744853
+      "anima\xE7\xF5es_2": -566492500
+      "anima\xE7\xF5es_3": 832404835
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
